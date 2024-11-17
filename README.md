@@ -42,46 +42,26 @@ Connect to the Windows instance using RDP.</br>
 ### NAME : 212222240007
 
 ## OUTPUT
-
-### S3 BUCKET CREATION:
-![{AE0F6BC8-4FDF-420A-A4CB-9EE914F03EB7}](https://github.com/user-attachments/assets/d89a5c00-edcc-4563-be72-528119e7df36)
-
+## S3 BUCKET CREATION:
+![image](https://github.com/user-attachments/assets/467d0c8a-b357-425e-a6e4-2af5c2375aa1)
 ### CONTENT IN BUCKET :
-![{E5C6FB79-C380-4934-8C5D-C2F2ABB674D5}](https://github.com/user-attachments/assets/ec4d20df-53e9-485d-a0a5-bc1207642f83)
+![image](https://github.com/user-attachments/assets/676428ea-2d11-4843-9ead-fde081751821)
 
-### REPLICATION :
-![{E255BC93-4932-44CE-B3DA-DA480368A76F}](https://github.com/user-attachments/assets/5ffd214b-be50-4efc-bd36-53ea8482e1a2)
-
-![{0824A5E9-93F0-42F0-AE00-9CA8222D4982}](https://github.com/user-attachments/assets/f5bda4f2-55a9-4c39-af64-f2220e3a91ac)
-
-![{12F581D2-AD16-4247-851A-7CE900FD68A7}](https://github.com/user-attachments/assets/9f9c0e84-e40d-40b8-a9a7-87d649de93bd)
-
+![image](https://github.com/user-attachments/assets/0c22d8ee-0f24-46cc-822b-129b5212e1b9)
 ### VERSIONING :
-![{85E410FF-68B2-41A7-A98A-3A8C866ABE70}](https://github.com/user-attachments/assets/6931857e-656d-4b2d-ad24-96491e3fca18)
+![image](https://github.com/user-attachments/assets/b4c61ac0-f9ee-4c2b-821b-9c752037ee9c)
 
-### EC2 LINUX:
-![{A9F66BDB-A8B5-42EF-9404-EFABC22FC767}](https://github.com/user-attachments/assets/dcc71140-ed4e-4056-b81f-46db0eb0834a)
+## EC2:
+![image](https://github.com/user-attachments/assets/494e864e-d75c-49c8-bf2a-e6d5e15d34d1)
 
-![{949591FE-2A67-4CC2-8F06-EE9FC67C7725}](https://github.com/user-attachments/assets/e6802a7c-d30f-4bd9-94ea-594e7df68dcc)
+### Linux And Windows :
+![image](https://github.com/user-attachments/assets/01a1e4cf-cff3-47d7-92ba-ba67d75ed25e)
+![image](https://github.com/user-attachments/assets/3a4e87c0-1202-4cb2-a7c4-efd3a068e6ec)
 
-![{BE929D7C-1B07-4536-B783-EBFEACCBFEEA}](https://github.com/user-attachments/assets/528ae5a0-1b28-4151-84b6-157e66a7144e)
 
-![{36141C63-5CEE-401C-A7D4-2824C5D0AD0B}](https://github.com/user-attachments/assets/635b55a8-68c5-4cf8-bee1-a706ddf0b433)
+## RESULT
+ Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
 
-![{043A874B-4EDF-4D68-A446-5D0171C5BEA7}](https://github.com/user-attachments/assets/50f3be58-9ea3-4f19-8b34-9b7415b7c0aa)
-
-### EC2 WINDOWS :
-![{7AA8922A-48A0-45FF-8377-395741A075E3}](https://github.com/user-attachments/assets/41cae874-f055-4bac-815e-52fba226230b)
-
-![{771440E6-E353-46D6-B576-AD30601BA3F1}](https://github.com/user-attachments/assets/2166dfa0-4ba7-4276-a909-52fc02d6593d)
-
-![{F9736A01-0CC2-4902-831B-289954C19B22}](https://github.com/user-attachments/assets/63445cbc-0bab-4ec4-b672-e624642c3708)
-
-![{FA893502-AEBF-43B2-ABCF-04C5EBE47F33}](https://github.com/user-attachments/assets/fa7d8426-ec41-4147-9953-b2f1fe84b4ff)
-
-## RESULT :
-Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
- 
 
   
 
